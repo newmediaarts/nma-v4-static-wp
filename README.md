@@ -1,0 +1,1 @@
+# nma-v4-static-wp
