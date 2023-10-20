@@ -1,0 +1,38 @@
+/*
+ Theme Name:   NMA Astra Child Theme
+ Theme URI:    http://nma.kapiolani.hawaii.edu/
+ Description:  A Custom Astra Child Theme for NMA
+ Author:       Chris Gargiulo
+ Author URI:   http://nma.kapiolani.hawaii.edu/gargiulo/
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         custom
+ Text Domain:  nma-astra-childtheme
+*/
+
+/* CUSTOM NMA STYLING */
+
+p {
+	max-width: 38em;
+}
+
+blockquote {
+    border-left: 5px solid #8f8f8f;
+}
+
+/* CUSTOM HERO STYLING */
+.nma-hero {
+	padding-top: 10em;
+	padding-bottom: 4em;
+}
+
+.nma-hero h1,
+.nma-hero h2,
+.nma-hero h3,
+.nma-hero h4,
+.nma-hero h5,
+.nma-hero p {
+	color: white;
+}
